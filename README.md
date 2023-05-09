@@ -15,3 +15,9 @@ You will have to press "Begin" and "Start" manually.
 You may run the program once you have followed all instructions thus far and are on the first question
 
 Enjoy!
+
+
+TODO:
+- There are several timing optimizations that can be made throughout (e.g., Q68 & Q81)
+- Portability would be nice to have; the set-up is rather specific and restrictive (work on functionality for other resolutions)
+- Code was hastily written in a few hours, clean-up is required if it is to be made more robust
